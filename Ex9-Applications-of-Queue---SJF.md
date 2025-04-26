@@ -13,7 +13,7 @@ To incorporate the code to calculate the Total Waiting Time and Average Waiting 
 ```
 /*
 Program to find the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
-Developed by: KIRUBANNITHI.S
+Developed by: KIRUBANITHI.S
 RegisterNumber: 212223220047
 */
 
